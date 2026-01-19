@@ -1,0 +1,51 @@
+{
+  "name": "prompt-manager-mcp",
+  "version": "1.0.0",
+  "description": "MCP Server for managing hierarchical prompts organized by role, task type, and module",
+  "type": "module",
+  "main": "build/index.js",
+  "bin": {
+    "prompt-manager-mcp": "build/index.js"
+  },
+  "files": [
+    "build",
+    "prompts",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node build/index.js",
+    "watch": "tsc --watch",
+    "clean": "rm -rf build",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "prompts",
+    "cms",
+    "development",
+    "fastmcp",
+    "prompt-management",
+    "ai-prompts"
+  ],
+  "author": "PALO IT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/palo-it/prompt-manager-mcp"
+  },
+  "dependencies": {
+    "fastmcp": "^3.26.9",
+    "gray-matter": "^4.0.3",
+    "winston": "^3.19.0",
+    "zod": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.9",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

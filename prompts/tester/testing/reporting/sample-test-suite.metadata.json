@@ -1,0 +1,12 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440005",
+  "name": "Automated Test Suite for Reporting Module",
+  "description": "Create comprehensive automated test suite covering unit, integration, E2E, and performance tests for the reporting module",
+  "role": "tester",
+  "taskType": "testing",
+  "module": "reporting",
+  "tags": ["testing", "automation", "jest", "e2e", "performance", "reporting"],
+  "createdAt": "2026-01-17T00:00:00.000Z",
+  "updatedAt": "2026-01-17T00:00:00.000Z",
+  "version": 1
+}

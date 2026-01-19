@@ -1,0 +1,12 @@
+{
+  "id": "e5f6a7b8-c9d0-4e5f-2a3b-4c5d6e7f8a9b",
+  "name": "Meeting Transcript Processing System",
+  "description": "Implement an automated meeting transcript processing system with speech-to-text, enhancement, and insights extraction",
+  "role": "developer",
+  "taskType": "code-generation",
+  "module": "transcripts",
+  "tags": ["transcripts", "speech-to-text", "nlp", "automation", "meetings"],
+  "createdAt": "2026-01-18T00:00:00.000Z",
+  "updatedAt": "2026-01-18T00:00:00.000Z",
+  "version": 1
+}

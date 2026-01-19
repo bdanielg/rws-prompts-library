@@ -1,0 +1,12 @@
+{
+  "id": "d4e5f6a7-b8c9-4d5e-1f2a-3b4c5d6e7f8a",
+  "name": "Project Scaffolding Generator",
+  "description": "Create a comprehensive project scaffolding generator with templates, CLI interface, and automated setup",
+  "role": "developer",
+  "taskType": "code-generation",
+  "module": "scaffolds",
+  "tags": ["scaffolding", "cli", "templates", "automation", "boilerplate"],
+  "createdAt": "2026-01-18T00:00:00.000Z",
+  "updatedAt": "2026-01-18T00:00:00.000Z",
+  "version": 1
+}

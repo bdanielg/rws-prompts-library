@@ -1,0 +1,12 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440003",
+  "name": "Legacy Member Tracking System Refactoring",
+  "description": "Refactor legacy JavaScript member tracking system to modern TypeScript with improved architecture, performance, and test coverage",
+  "role": "developer",
+  "taskType": "refactoring",
+  "module": "membership",
+  "tags": ["refactoring", "typescript", "legacy", "performance", "architecture", "testing"],
+  "createdAt": "2026-01-17T00:00:00.000Z",
+  "updatedAt": "2026-01-17T00:00:00.000Z",
+  "version": 1
+}

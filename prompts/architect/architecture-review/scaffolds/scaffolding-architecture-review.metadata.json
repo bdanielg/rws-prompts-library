@@ -1,0 +1,12 @@
+{
+  "id": "c9d0e1f2-a3b4-4c5d-8e9f-0a1b2c3d4e5f",
+  "name": "Component Scaffolding Architecture Review",
+  "description": "Review the architecture of a component scaffolding system for design patterns, extensibility, performance, and security",
+  "role": "architect",
+  "taskType": "architecture-review",
+  "module": "scaffolds",
+  "tags": ["architecture", "review", "scaffolding", "design-patterns", "extensibility"],
+  "createdAt": "2026-01-18T00:00:00.000Z",
+  "updatedAt": "2026-01-18T00:00:00.000Z",
+  "version": 1
+}

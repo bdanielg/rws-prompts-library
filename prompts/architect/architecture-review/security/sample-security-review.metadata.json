@@ -1,0 +1,12 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440004",
+  "name": "Security Architecture Review",
+  "description": "Perform comprehensive security architecture review for authentication and authorization module with vulnerability assessment and compliance validation",
+  "role": "architect",
+  "taskType": "architecture-review",
+  "module": "security",
+  "tags": ["security", "architecture", "review", "compliance", "authentication", "authorization"],
+  "createdAt": "2026-01-17T00:00:00.000Z",
+  "updatedAt": "2026-01-17T00:00:00.000Z",
+  "version": 1
+}

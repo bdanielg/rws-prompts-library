@@ -1,0 +1,12 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "name": "Payment Transaction Handler",
+  "description": "Implement a robust payment transaction handler for the cashiering module with atomic operations, security, and comprehensive error handling",
+  "role": "developer",
+  "taskType": "code-generation",
+  "module": "cashiering",
+  "tags": ["payment", "transaction", "cashiering", "security", "pci-dss", "typescript"],
+  "createdAt": "2026-01-17T00:00:00.000Z",
+  "updatedAt": "2026-01-17T00:00:00.000Z",
+  "version": 1
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a1b2c3d4-e5f6-4a5b-8c9d-0e1f2a3b4c5d",
+  "name": "Configuration Management Template",
+  "description": "Create a comprehensive configuration management solution with environment-specific settings, security, and validation",
+  "role": "developer",
+  "taskType": "code-generation",
+  "module": "config",
+  "tags": ["configuration", "environment", "security", "validation", "typescript"],
+  "createdAt": "2026-01-18T00:00:00.000Z",
+  "updatedAt": "2026-01-18T00:00:00.000Z",
+  "version": 1
+}

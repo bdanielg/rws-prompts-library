@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "prompt-manager": {
+      "command": "npx",
+      "args": ["-y", "prompt-manager-mcp"],
+      "type": "stdio"
+    }
+  }
+}

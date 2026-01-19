@@ -1,0 +1,31 @@
+# Source files (only publish build)
+src/
+tsconfig.json
+.vscode/
+.github/
+
+# Development files
+*.log
+npm-debug.log*
+node_modules/
+.DS_Store
+
+# Test files
+*.test.ts
+*.spec.ts
+test/
+tests/
+
+# Documentation (keep README)
+docs/plans/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+.env.*.local

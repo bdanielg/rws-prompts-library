@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "prompt-manager": {
+      "command": "node",
+      "args": [
+        "/Users/dbaylon/Desktop/Development/00 Workspaces/developments/palo-it/rws-palo/rws-prompts-library/build/index.js"
+      ],
+      "env": {},
+      "metadata": {
+        "name": "Prompt Manager MCP Server",
+        "version": "1.0.0",
+        "description": "SDLC prompt library management with hierarchical organization (role/task type/module)",
+        "author": "Your Team",
+        "tools": [
+          "search-prompts",
+          "list-prompts",
+          "add-prompt",
+          "update-prompt"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e1f2a3b4-c5d6-4e7f-0a1b-2c3d4e5f6a7b",
+  "name": "User Research Findings Synthesis",
+  "description": "Synthesize findings from multiple research activities into actionable insights with evidence, patterns, and prioritized recommendations",
+  "role": "architect",
+  "taskType": "documentation",
+  "module": "research",
+  "tags": ["research", "synthesis", "insights", "analysis", "recommendations"],
+  "createdAt": "2026-01-18T00:00:00.000Z",
+  "updatedAt": "2026-01-18T00:00:00.000Z",
+  "version": 1
+}
